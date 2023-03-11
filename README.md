@@ -3,5 +3,5 @@
 ## 2022-08-05
 [623.在二叉树中增加一行](https://leetcode.cn/problems/add-one-row-to-tree/)
 
-[我的题解](623.md)
+[我的题解](solution/623.md)
 ## 2022-08-06
