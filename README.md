@@ -10,3 +10,8 @@
 [1590.使数组和能被P整除](https://leetcode.cn/problems/make-sum-divisible-by-p/solutions/)
 
 [题解](solution/1590.md)
+
+## 2023-03-19
+[1625.执行操作后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-applying-operations/)
+
+[题解](solution/1625.md)
