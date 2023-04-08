@@ -15,3 +15,7 @@
 [1625.执行操作后字典序最小的字符串](https://leetcode.cn/problems/lexicographically-smallest-string-after-applying-operations/)
 
 [题解](solution/1625.md)
+## 2023-04-08
+[1125. 最小的必要团队](https://leetcode.cn/problems/smallest-sufficient-team/)
+
+[题解](solution/1125.md)
